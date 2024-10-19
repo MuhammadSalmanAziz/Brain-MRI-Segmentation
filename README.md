@@ -6,7 +6,7 @@ This project focuses on building a  MRI brain tumor segmentation pipeline using 
 ## Links
 - **Dataset**: [(LGG) MRI dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
 - **Jupyter Notebook**: [Brain MRI Segmentation Using SAM](https://github.com/naveed-khan10/Brain-MRI-Segmentation-Using-SAM-and-DeepLabV3-/blob/main/Brain%20MRI%20Segmentation%20Using%20SAM.ipynb)
-- 
+
 ## 1. Data Collection
 - **Dataset**: [Low-Grade Glioma (LGG) MRI dataset](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation) containing MRI images with tumor masks.
 - **Task**: Load the MRI image and mask file paths using Python.
